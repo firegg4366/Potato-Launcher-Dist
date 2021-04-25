@@ -8,3 +8,20 @@ a.bakedpotato, m4tonoob, Otavio
 
 # How to download
 Download the latest zip under releases.
+
+# Future Plans
+### v2.3
+- Block List
+- Llama Shop
+- Save the World Shop
+- Ventures Lookup
+### v2.4
+- Hero Loadout Lookup
+- Hero Loadout Management
+- Manage Schematics
+- Schematic Lookup
+### v2.5
+- Manage Survivor Squads
+- Manage Survivors
+- Survivor Lookup
+- Survivor Squad Lookup
