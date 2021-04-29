@@ -5,6 +5,11 @@ We are in no way associated with Epic Games.
 
 # Developers
 a.bakedpotato, m4tonoob, Otavio
+## Helpers
+Alaattin - Great Feature/QOL Suggestions
+Amrsatrio - Epic API Help, UI Suggestions
+FortOfFans - Legally required to credit
+tb24 - Template ID List
 
 # How to download
 Download the latest zip under releases.
