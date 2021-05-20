@@ -13,7 +13,7 @@ a.bakedpotato, m4tonoob, Otavio
 
 # How to download
 - v2.0.0-v2.2.3: Download the latest zip under releases.
-- v2.2.4-Recent: Download the latest exe under releases and run it. The app should be installed at `%localappdata\Programs\potato-launcher\potato-launcher.exe`.
+- v2.2.4-Recent: Download the latest exe under releases and run it. The app should be installed at `%localappdata%\Programs\potato-launcher\potato-launcher.exe`.
 
 # Future Plans
 ### v2.3
