@@ -17,10 +17,10 @@ a.bakedpotato, m4tonoob, Otavio
 
 # Future Plans
 ### v2.3
-- Block List
-- Llama Shop
+- Block List ✅
+- Llama Shop ✅
 - Save the World Shop
-- Ventures Lookup
+- Ventures Lookup ✏
 ### v2.4
 - Hero Loadout Lookup
 - Hero Loadout Management
